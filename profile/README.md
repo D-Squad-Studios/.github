@@ -1,5 +1,11 @@
 ## Welcome to D Squad Studios 👋
 
+If you are reading this, then you already know how to read. Congratz 🙂.
+
+You can put any projects here that we can work on together and if you need help on. 
+
+Likely communication will be Discord for these projects.
+
 <!--
 
 **Here are some ideas to get you started:**
